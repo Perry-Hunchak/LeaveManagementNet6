@@ -7,7 +7,7 @@ env:
   AZURE_WEBAPP_NAME: LeaveManagementWeb20230109144751
   AZURE_WEBAPP_PACKAGE_PATH: LeaveManagement.Web\published
   CONFIGURATION: Release
-  DOTNET_CORE_VERSION: 5.0.x
+  DOTNET_CORE_VERSION: 7.0.x
   WORKING_DIRECTORY: LeaveManagement.Web
 jobs:
   build:
